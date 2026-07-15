@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-17agwd.keitaro-tech-rtb.online/sitemap.xml
